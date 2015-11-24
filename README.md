@@ -30,4 +30,4 @@ preference for which preprocessor to use.
 
 - [Public github repo](https://github.com/sass/sass)
 
-- All the [fun functions](http://sass-lang.com/documentation/Sass/Script/Functions.html}
+- All the [fun functions](http://sass-lang.com/documentation/Sass/Script/Functions.html]
