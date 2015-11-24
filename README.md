@@ -21,13 +21,13 @@ preference for which preprocessor to use.
 ###For more information:
 - To [download](http://sass-lang.com/install) SASS onto your machine
 
-- [Documentation:](http://sass-lang.com/documentation/) for more information on using SASS, formatting, and the works
+- [Documentation](http://sass-lang.com/documentation/) for more information on using SASS, formatting, and the works
 
-- A [tutorial:](http://alistapart.com/article/getting-started-with-sass) on getting started
+- A [tutorial](http://alistapart.com/article/getting-started-with-sass) on getting started
 
 - Pros and cons of a preprocessor: [article 1] (http://www.nosleepforsheep.com/development/using-a-css-preprocessor/)
     and [article 2](http://chriseppstein.github.io/blog/2009/02/15/a-sassy-response-to-css-framework-disadvantages/)
 
-- [Public github repo:](https://github.com/sass/sass)
+- [Public github repo](https://github.com/sass/sass)
 
-- All the [fun functions:](http://sass-lang.com/documentation/Sass/Script/Functions.html}
+- All the [fun functions](http://sass-lang.com/documentation/Sass/Script/Functions.html}
