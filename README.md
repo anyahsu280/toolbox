@@ -1,4 +1,4 @@
-#### [Here](https://github.com/anyahsu280/toolbox/blob/master/css/sass/main.scss) is the link to my example
+#### [Here](https://github.com/anyahsu280/toolbox/blob/master/css/sass/main.scss) is the link to my example, which is an edited version of the CSS we did for the dawg-coffee challenge many weeks ago.
 I went a little variable happy on my SCSS page to show how you can use variables, unlike standard CSS. I also
 demonstrated nesting, which is a super useful way to write code that is neater and easier to read.
 
